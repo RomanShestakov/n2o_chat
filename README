@@ -1,0 +1,13 @@
+example project for n2o webframework
+
+1. clone repo:
+   git clone https://github.com/RomanShestakov/n2o_chat.git
+
+2. build
+   cd n2o_chat; make
+
+3. run
+   ./start.sh
+
+4. in your browser go to:
+   http://localhost:8000
