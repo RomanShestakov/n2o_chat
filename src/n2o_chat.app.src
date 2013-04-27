@@ -1,0 +1,12 @@
+{application, n2o_chat,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { n2o_chat_app, []}},
+  {env, []}
+ ]}.
